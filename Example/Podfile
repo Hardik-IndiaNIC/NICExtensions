@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NICExtensions_Example' do
+  pod 'NICExtensions', :path => '../'
+
+  target 'NICExtensions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
