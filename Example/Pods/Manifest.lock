@@ -1,0 +1,16 @@
+PODS:
+  - NICExtensions (0.1.0)
+
+DEPENDENCIES:
+  - NICExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  NICExtensions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NICExtensions: a9b123e27ddd7eb0f1c84474cd5699c319744ffe
+
+PODFILE CHECKSUM: 9c09057875e739ac8c154a724bbe136da68124fb
+
+COCOAPODS: 1.1.1

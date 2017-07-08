@@ -1,0 +1,6 @@
+framework module NICExtensions {
+  umbrella header "NICExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
